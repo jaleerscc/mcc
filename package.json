@@ -1,0 +1,23 @@
+{
+  "name": "bankdemo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "material-icons": "^0.2.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-notifications": "^1.4.3",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.0.1",
+    "roboto-fontface": "^0.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
